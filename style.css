@@ -1,0 +1,21 @@
+.header_div{
+    background-color:aqua;
+    color:red;
+    font-size:30px;
+}
+body{
+    background-color:yellow;
+    text-align:center;
+    font-family: 'Bonheur Royale', cursive;
+}
+.footer_div{
+    background-color: aqua;
+    color:red;
+    font-size:30px;
+    bottom:0;
+    position:fixed;
+    text-align:center;
+    line-height:3;
+    text-shadow:3px 3px 3px gray;
+    width:100%;
+}
